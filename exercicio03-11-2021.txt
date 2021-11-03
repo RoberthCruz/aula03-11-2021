@@ -1,0 +1,27 @@
+Pesquisa 
+
+Sistemas embarcados podem ser (ou não) computadores?
+
+R:Um sistema embarcado (ou sistema embutido) é um sistema microprocessado no qual o computador é completamente encapsulado ou dedicado ao dispositivo ou sistema que ele controla.[1] Diferentemente de computadores de propósito geral, como o computador pessoal, um sistema embarcado realiza um conjunto de tarefas predefinidas, geralmente com requisitos específicos. Já que o sistema é dedicado a tarefas específicas, através de engenharia pode-se otimizar o projeto reduzindo tamanho, recursos computacionais e custo do produto.[2][3]
+
+Em geral tais sistemas não podem ter sua funcionalidade alterada durante o uso. Caso queira-se modificar o propósito é necessário reprogramar todo o sistema.
+
+Sistemas como PDAs são geralmente considerados sistemas embarcados pela natureza do material informático (hardware) que os compõe, apesar de serem muito mais flexíveis em termos lógicos (software). Fisicamente, os sistemas embarcados passam desde leitores MP3 a semáforos.
+
+Definição de nomenclaturas:
+
+Monotarefa => Monotarefa: permite a execução de um único programa aplicativo. Somente um programa pode ser carregado para a memória. Exemplo: DOS. Multitarefa: permite que vários programas aplicativos sejam carregados para a memória.
+
+Multitarefa => capacidade que possui um sistema operacional de computador de executar mais de um programa simultaneamente.
+
+Monoprocessado => Somente reconhece e utiliza um processador. Exemplo: Windows 98.
+
+Multiprocessado => Reconhece e utiliza mais de um processador.
+
+Importância do equilibrio das peças em computador 
+
+Um bom computador não é feito apenas de um processador poderoso. É fundamental o equilíbrio entre processador, memória RAM, disco rígido, placa de vídeo e até a placa-mãe.Um PC com um processador poderoso – que normalmente custa bem caro – e pouca memória RAM é o mesmo que uma Ferrari com rodas de baixa qualidade. A máquina tem enorme potencial, mas não anda.Na hora de comprar um computador, você precisa ter clareza do uso que ele terá. Um PC adequado para navegar na internet e escrever textos não dá conta do recado de jogos e edição de vídeo. Quanto mais específica sua necessidade, mais caro será o equipamento.USO BÁSICOPara um um PC ou notebook basicão, com Windows Vista Home Basic instalado, um processador mais simples, como o Celeron e o Sempron, e 2 GB de memória RAM são suficientes. A placa de vídeo integrada ao sistema – de desempenho modesto – dá e sobra para assistir a filmes em DVD, navegar pela web, acessar o YouTube e ver fotos da sua câmera digital.INTERMEDIÁRIOJá processadores de dois núcleos, como o Core2Duo e o Athlon X2, são mais indicados para quem quer converter vídeos e editar fotos.MÁQUINA PARA GAMESSe você está interessado em rodar jogos de última geração, vai precisar gastar bem mais. Os games são o tipo de programa que mais consome recursos de sistema. Exigem um processador parrudo, de três ou quatro núcleos, como o Core2Quad ou o Phenom X3 ou X4.Jogos também precisam de pelo menos 3 GB de memória RAM, mas uma placa de vídeo integrada, que vem embutida na placa-mãe, não agüenta rodar nada complexo. Nesse caso, será necessário uma placa mais avançada, como uma Radeon 4850 ou GeForce GTX 260.Alguns fabricantes de PC permitem que se troque a placa de vídeo sem afetar a garantia do produto. Informe-se antes de comprar e aproveite ao máximo seu novo PC. J.A.NÚCLEO – É o cérebro do processador. Quanto mais núcleos, mais atividades simultâneas a máquina poderá realizarGPU – É o mesmo que placa de vídeo, um cérebro dedicado a desenhar gráficos PLACA-MÃE – Base sobre a qual os componentes do PC são interconectados.
+
+O porque de quanto menor a litografia dos processadores, mais eficientes eles ficam:
+
+Os processadores já são pequenos, com transistores ainda menores, então quanto menor for a distância entre os componentes melhor será o desempenho, pois haverá mais espaço livre para inserir outros milhões de transistores sem precisar criar um modelo maior.
